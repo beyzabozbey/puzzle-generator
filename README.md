@@ -1,6 +1,6 @@
 # OptimalPuzzle
 
-This project generates puzzles to find a good puzzle that is optimized to be challenging and entertaining by using simulated annealing. For the project description, please see the "Programming Part" of proj2-2.pdf.
+This project generates puzzles to find a good puzzle that is optimized to be challenging and entertaining by using simulated annealing. For the project description, please see the "Programming Part" of [proj.pdf](proj.pdf).
 
 ## How to compile and run
 
