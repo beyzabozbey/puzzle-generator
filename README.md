@@ -1,4 +1,4 @@
-# OptimalPuzzle
+# PuzzleGenerator
 
 This project generates puzzles to find a good puzzle that is optimized to be challenging and entertaining by using simulated annealing. For the project description, please see the "Programming Part" of [proj.pdf](proj.pdf).
 
